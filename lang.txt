@@ -1,1 +1,9 @@
+  Which server side language do you use (and why)?
+    - Python. Why? Maybe because I work with it most of all or maybe it is just a love. Or maybe it's because  I don't have much experience with other languages
+    
+  What do you know about PHP?
+    -It`s server scripting language. I took a course on Codecademy and learned some stuff on W3school. I  know the syntax of this language, but i don't have a much experience with it.
+    
+  Which frameworks did you use?
+    - Django, Angular.
 
